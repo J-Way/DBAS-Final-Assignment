@@ -1,0 +1,39 @@
+DROP TABLE fact_don;
+
+DROP TABLE dim_period;
+
+DROP TABLE dim_address;
+
+DROP TABLE dim_volunteer;
+
+CREATE TABLE fact_don (
+    d_id              NUMBER,
+    a_id              NUMBER,
+    v_id              NUMBER,
+    donation_amount   NUMBER(10, 2)
+);
+
+CREATE TABLE dim_date (
+    d_id            NUMBER,
+    donation_date   DATE
+);
+
+CREATE TABLE dim_address (
+    a_id            NUMBER,
+    address_id      NUMBER,
+    street_number   NUMBER,
+    street_name     VARCHAR2(24 BYTE),
+    postal_code     CHAR(7 BYTE),
+    city            VARCHAR2(16 BYTE),
+    province        CHAR(2 BYTE)
+);
+
+CREATE TABLE dim_volunteer (
+    v_id           NUMBER,
+    volunteer_id   NUMBER,
+    first_name     VARCHAR2(16 BYTE),
+    last_name      VARCHAR2(16 BYTE),
+    group_leader   NUMBER
+);
+
+COMMIT;
