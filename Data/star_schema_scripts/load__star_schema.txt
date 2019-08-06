@@ -1,0 +1,79 @@
+DROP SEQUENCE dim_date_id;
+
+DROP SEQUENCE dim_address_id;
+
+DROP SEQUENCE dim_volunteer_id;
+
+CREATE SEQUENCE dim_date_id;
+
+CREATE SEQUENCE dim_address_id;
+
+CREATE SEQUENCE dim_volunteer_id;
+
+INSERT INTO dim_date
+    SELECT
+        dim_date_id.NEXTVAL,
+        donation_date
+    FROM
+        donation;
+
+INSERT INTO dim_address
+    SELECT
+        dim_address_id.NEXTVAL,
+        address_id,
+        street_number,
+        street_name,
+        postal_code,
+        city,
+        province
+    FROM
+        address;
+
+INSERT INTO dim_volunteer
+    SELECT
+        dim_volunteer_id.NEXTVAL,
+        volunteer_id,
+        first_name,
+        last_name,
+        group_leader
+    FROM
+        volunteer;
+
+COMMIT;
+
+DECLARE
+    TYPE arr_don IS
+        TABLE OF fact_don%rowtype;
+    don arr_don;
+    CURSOR cr IS
+    SELECT
+        d_id,
+        a_id,
+        v_id,
+        donation_amount
+    FROM
+        donation
+        INNER JOIN dim_date ON donation.donation_date = dim_date.donation_date
+        INNER JOIN dim_address ON donation.address_id = dim_address.address_id
+        INNER JOIN dim_volunteer ON donation.volunteer_id = dim_volunteer.volunteer_id
+    GROUP BY
+        d_id,
+        a_id,
+        v_id,
+        donation_amount;
+
+BEGIN
+    OPEN cr;
+    FETCH cr BULK COLLECT INTO don;
+    CLOSE cr;
+    FORALL i IN 1..don.last
+        INSERT INTO fact_don VALUES (
+            don(i).d_id,
+            don(i).a_id,
+            don(i).v_id,
+            don(i).donation_amount
+        );
+
+    COMMIT;
+END;
+/
