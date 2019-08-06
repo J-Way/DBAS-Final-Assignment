@@ -1,6 +1,6 @@
 DROP TABLE fact_don;
 
-DROP TABLE dim_period;
+DROP TABLE dim_date;
 
 DROP TABLE dim_address;
 
