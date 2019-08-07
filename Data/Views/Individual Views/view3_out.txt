@@ -1,0 +1,25 @@
+
+   CUR_AVG    CUR_SUM FIRST_NAME       LAST_NAME        GROUP_LEADER
+---------- ---------- ---------------- ---------------- ------------
+    717.95     1435.9 Francesco        Keenlayside                 1
+    578.43     3470.6 Raffaello        Ryves                       1
+    592.29       4146 Tammara          Twells                      1
+     603.5     9052.5                                              1
+    478.97     4310.7 Gilles           Bucknill                    2
+       343       2401 Joli             Boeter                      2
+     289.5       1737 Prudi            Dahlbom                     2
+    384.03     8448.7                                              2
+     704.1     4224.6 Byram            Juggings                    3
+    666.08     3330.4 Maggee           Brettell                    3
+    515.52     2577.6 Sherline         Feehily                     3
+
+   CUR_AVG    CUR_SUM FIRST_NAME       LAST_NAME        GROUP_LEADER
+---------- ---------- ---------------- ---------------- ------------
+    633.29    10132.6                                              3
+    522.68     2613.4 Corinne          Tither                      4
+    690.69     4834.8 Julian           Geere                       4
+    533.72     3202.3 Sisile           Joanaud                     4
+    591.69    10650.5                                              4
+    539.22    38284.3                                               
+
+17 rows selected. 

@@ -1,0 +1,412 @@
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     835.3      835.3           367 ATWOOD                          
+     835.3      835.3           367 ATWOOD                          
+     362.8      725.6           424 ATWOOD                          
+     362.8      725.6           424 ATWOOD                          
+     520.3     1560.9               ATWOOD                          
+     520.3     1560.9               ATWOOD                          
+     202.5      202.5          1279 BISHOPSTOKE                     
+     202.5      202.5          1279 BISHOPSTOKE                     
+     202.5      202.5               BISHOPSTOKE                     
+     202.5      202.5               BISHOPSTOKE                     
+     916.3      916.3            41 BRIDGEWATER                     
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     916.3      916.3            41 BRIDGEWATER                     
+     916.3      916.3               BRIDGEWATER                     
+     916.3      916.3               BRIDGEWATER                     
+       114        114           397 CALLAGHAN                       
+       114        114           397 CALLAGHAN                       
+       114        114               CALLAGHAN                       
+       114        114               CALLAGHAN                       
+     606.6      606.6           353 CARRIER                         
+     606.6      606.6           353 CARRIER                         
+     606.6      606.6               CARRIER                         
+     606.6      606.6               CARRIER                         
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     676.4      676.4           223 CHURCH                          
+     676.4      676.4           223 CHURCH                          
+     676.4      676.4               CHURCH                          
+     676.4      676.4               CHURCH                          
+     552.1      552.1           281 DOUGLAS                         
+     552.1      552.1           281 DOUGLAS                         
+     552.1      552.1               DOUGLAS                         
+     552.1      552.1               DOUGLAS                         
+      43.4       43.4            65 DUNN                            
+      43.4       43.4            65 DUNN                            
+      43.4       43.4               DUNN                            
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+      43.4       43.4               DUNN                            
+     180.2      180.2           396 FREEMAN                         
+     180.2      180.2           396 FREEMAN                         
+     180.2      180.2               FREEMAN                         
+     180.2      180.2               FREEMAN                         
+     431.7      431.7           201 GLOUCESTER                      
+     431.7      431.7           201 GLOUCESTER                      
+     431.7      431.7               GLOUCESTER                      
+     431.7      431.7               GLOUCESTER                      
+     540.9     1081.8          1395 GOLDEN MEADOW                   
+     540.9     1081.8          1395 GOLDEN MEADOW                   
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     590.2      590.2          1449 GOLDEN MEADOW                   
+     590.2      590.2          1449 GOLDEN MEADOW                   
+    557.33       1672               GOLDEN MEADOW                   
+    557.33       1672               GOLDEN MEADOW                   
+     275.1      550.2          1280 HILLVIEW                        
+     275.1      550.2          1280 HILLVIEW                        
+     275.1      550.2               HILLVIEW                        
+     275.1      550.2               HILLVIEW                        
+     895.8     1791.6           384 IROQUOIS SHORE                  
+     895.8     1791.6           384 IROQUOIS SHORE                  
+     944.7      944.7           525 IROQUOIS SHORE                  
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     944.7      944.7           525 IROQUOIS SHORE                  
+     912.1     2736.3               IROQUOIS SHORE                  
+     912.1     2736.3               IROQUOIS SHORE                  
+       533        533          1511 JASMINE                         
+       533        533          1511 JASMINE                         
+       533        533               JASMINE                         
+       533        533               JASMINE                         
+      21.3       21.3          1384 KATHLEEN                        
+      21.3       21.3          1384 KATHLEEN                        
+      21.3       21.3               KATHLEEN                        
+      21.3       21.3               KATHLEEN                        
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     319.7      319.7           403 LAKESHORE                       
+     319.7      319.7           403 LAKESHORE                       
+       983        983           474 LAKESHORE                       
+       983        983           474 LAKESHORE                       
+    651.35     1302.7               LAKESHORE                       
+    651.35     1302.7               LAKESHORE                       
+     617.1      617.1           451 LINCOLN                         
+     617.1      617.1           451 LINCOLN                         
+     617.1      617.1               LINCOLN                         
+     617.1      617.1               LINCOLN                         
+     536.1      536.1          1597 LITCHFIELD                      
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     536.1      536.1          1597 LITCHFIELD                      
+     536.1      536.1               LITCHFIELD                      
+     536.1      536.1               LITCHFIELD                      
+     738.1      738.1           365 LYNN                            
+     738.1      738.1           365 LYNN                            
+     738.1      738.1               LYNN                            
+     738.1      738.1               LYNN                            
+     976.3      976.3           341 LYNNWOOD                        
+     976.3      976.3           341 LYNNWOOD                        
+     976.3      976.3               LYNNWOOD                        
+     976.3      976.3               LYNNWOOD                        
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     151.5        303          2240 MACLENNAN                       
+     151.5        303          2240 MACLENNAN                       
+     151.5        303               MACLENNAN                       
+     151.5        303               MACLENNAN                       
+     331.1      331.1           551 MARLATT                         
+     331.1      331.1           551 MARLATT                         
+     331.1      331.1               MARLATT                         
+     331.1      331.1               MARLATT                         
+     795.6     1591.2           133 MARTINDALE                      
+     795.6     1591.2           133 MARTINDALE                      
+     128.3      128.3           228 MARTINDALE                      
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     128.3      128.3           228 MARTINDALE                      
+    573.17     1719.5               MARTINDALE                      
+    573.17     1719.5               MARTINDALE                      
+     903.5      903.5          1135 MCCRANEY                        
+     903.5      903.5          1135 MCCRANEY                        
+     903.5      903.5               MCCRANEY                        
+     903.5      903.5               MCCRANEY                        
+     917.5      917.5          1469 MILLBROOK                       
+     917.5      917.5          1469 MILLBROOK                       
+     917.5      917.5               MILLBROOK                       
+     917.5      917.5               MILLBROOK                       
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     390.8      781.6           427 MILTON                          
+     390.8      781.6           427 MILTON                          
+     390.8      781.6               MILTON                          
+     390.8      781.6               MILTON                          
+     261.3      261.3          1089 MONTROSE ABBEY                  
+     261.3      261.3          1089 MONTROSE ABBEY                  
+     247.7      495.4          1275 MONTROSE ABBEY                  
+     247.7      495.4          1275 MONTROSE ABBEY                  
+    252.23      756.7               MONTROSE ABBEY                  
+    252.23      756.7               MONTROSE ABBEY                  
+       113        226          2325 MOODIE                          
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+       113        226          2325 MOODIE                          
+       113        226               MOODIE                          
+       113        226               MOODIE                          
+     219.2      219.2          2356 MUNN'S                          
+     219.2      219.2          2356 MUNN'S                          
+     219.2      219.2               MUNN'S                          
+     219.2      219.2               MUNN'S                          
+     297.1      297.1          2447 NEW WOOD                        
+     297.1      297.1          2447 NEW WOOD                        
+     297.1      297.1               NEW WOOD                        
+     297.1      297.1               NEW WOOD                        
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+       879       1758           243 NORTH SERVICE                   
+       879       1758           243 NORTH SERVICE                   
+       879       1758               NORTH SERVICE                   
+       879       1758               NORTH SERVICE                   
+     886.7      886.7           236 NOTTINGHAM                      
+     886.7      886.7           236 NOTTINGHAM                      
+     886.7      886.7               NOTTINGHAM                      
+     886.7      886.7               NOTTINGHAM                      
+     352.1      352.1          1272 OLD BRIDLE                      
+     352.1      352.1          1272 OLD BRIDLE                      
+     902.9      902.9          1284 OLD BRIDLE                      
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     902.9      902.9          1284 OLD BRIDLE                      
+     627.5       1255               OLD BRIDLE                      
+     627.5       1255               OLD BRIDLE                      
+     559.5       1119            88 PARK                            
+     559.5       1119            88 PARK                            
+     559.5       1119               PARK                            
+     559.5       1119               PARK                            
+     445.4      890.8           370 RIVER GLEN                      
+     445.4      890.8           370 RIVER GLEN                      
+     445.4      890.8               RIVER GLEN                      
+     445.4      890.8               RIVER GLEN                      
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     218.9      218.9           291 RIVER SIDE                      
+     218.9      218.9           291 RIVER SIDE                      
+     218.9      218.9               RIVER SIDE                      
+     218.9      218.9               RIVER SIDE                      
+     620.8      620.8           152 ROBINSON                        
+     620.8      620.8           152 ROBINSON                        
+       683        683           234 ROBINSON                        
+       683        683           234 ROBINSON                        
+     651.9     1303.8               ROBINSON                        
+     651.9     1303.8               ROBINSON                        
+     900.6      900.6          2715 ROSEWOOD                        
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     900.6      900.6          2715 ROSEWOOD                        
+     900.6      900.6               ROSEWOOD                        
+     900.6      900.6               ROSEWOOD                        
+     531.9      531.9           222 ROSS                            
+     531.9      531.9           222 ROSS                            
+     470.8      470.8           225 ROSS                            
+     470.8      470.8           225 ROSS                            
+    501.35     1002.7               ROSS                            
+    501.35     1002.7               ROSS                            
+       906       1812          1441 SIXTH                           
+       906       1812          1441 SIXTH                           
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     961.8      961.8          2395 SIXTH                           
+     961.8      961.8          2395 SIXTH                           
+     924.6     2773.8               SIXTH                           
+     924.6     2773.8               SIXTH                           
+     242.4      242.4          2345 STRAWFIELD                      
+     242.4      242.4          2345 STRAWFIELD                      
+     242.4      242.4               STRAWFIELD                      
+     242.4      242.4               STRAWFIELD                      
+     859.7      859.7           136 TRAFALGAR                       
+     859.7      859.7           136 TRAFALGAR                       
+     680.1      680.1          1537 TRAFALGAR                       
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     680.1      680.1          1537 TRAFALGAR                       
+     769.9     1539.8               TRAFALGAR                       
+     769.9     1539.8               TRAFALGAR                       
+     661.2      661.2          1277 VALERIE                         
+     661.2      661.2          1277 VALERIE                         
+     661.2      661.2               VALERIE                         
+     661.2      661.2               VALERIE                         
+     587.6      587.6           117 WATSON                          
+     587.6      587.6           117 WATSON                          
+     406.6      813.2           158 WATSON                          
+     406.6      813.2           158 WATSON                          
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+    466.93     1400.8               WATSON                          
+    466.93     1400.8               WATSON                          
+     908.4      908.4          1392 WHITE OAKS                      
+     908.4      908.4          1392 WHITE OAKS                      
+     908.4      908.4               WHITE OAKS                      
+     908.4      908.4               WHITE OAKS                      
+     916.3      916.3            41                                 
+     916.3      916.3            41                                 
+      43.4       43.4            65                                 
+      43.4       43.4            65                                 
+     559.5       1119            88                                 
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     559.5       1119            88                                 
+     587.6      587.6           117                                 
+     587.6      587.6           117                                 
+     795.6     1591.2           133                                 
+     795.6     1591.2           133                                 
+     859.7      859.7           136                                 
+     859.7      859.7           136                                 
+     620.8      620.8           152                                 
+     620.8      620.8           152                                 
+     406.6      813.2           158                                 
+     406.6      813.2           158                                 
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     431.7      431.7           201                                 
+     431.7      431.7           201                                 
+     531.9      531.9           222                                 
+     531.9      531.9           222                                 
+     676.4      676.4           223                                 
+     676.4      676.4           223                                 
+     470.8      470.8           225                                 
+     470.8      470.8           225                                 
+     128.3      128.3           228                                 
+     128.3      128.3           228                                 
+       683        683           234                                 
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+       683        683           234                                 
+     886.7      886.7           236                                 
+     886.7      886.7           236                                 
+       879       1758           243                                 
+       879       1758           243                                 
+     552.1      552.1           281                                 
+     552.1      552.1           281                                 
+     218.9      218.9           291                                 
+     218.9      218.9           291                                 
+     976.3      976.3           341                                 
+     976.3      976.3           341                                 
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     606.6      606.6           353                                 
+     606.6      606.6           353                                 
+     738.1      738.1           365                                 
+     738.1      738.1           365                                 
+     835.3      835.3           367                                 
+     835.3      835.3           367                                 
+     445.4      890.8           370                                 
+     445.4      890.8           370                                 
+     895.8     1791.6           384                                 
+     895.8     1791.6           384                                 
+     180.2      180.2           396                                 
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     180.2      180.2           396                                 
+       114        114           397                                 
+       114        114           397                                 
+     319.7      319.7           403                                 
+     319.7      319.7           403                                 
+     362.8      725.6           424                                 
+     362.8      725.6           424                                 
+     390.8      781.6           427                                 
+     390.8      781.6           427                                 
+     617.1      617.1           451                                 
+     617.1      617.1           451                                 
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+       983        983           474                                 
+       983        983           474                                 
+     944.7      944.7           525                                 
+     944.7      944.7           525                                 
+     331.1      331.1           551                                 
+     331.1      331.1           551                                 
+     261.3      261.3          1089                                 
+     261.3      261.3          1089                                 
+     903.5      903.5          1135                                 
+     903.5      903.5          1135                                 
+     352.1      352.1          1272                                 
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     352.1      352.1          1272                                 
+     247.7      495.4          1275                                 
+     247.7      495.4          1275                                 
+     661.2      661.2          1277                                 
+     661.2      661.2          1277                                 
+     202.5      202.5          1279                                 
+     202.5      202.5          1279                                 
+     275.1      550.2          1280                                 
+     275.1      550.2          1280                                 
+     902.9      902.9          1284                                 
+     902.9      902.9          1284                                 
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+      21.3       21.3          1384                                 
+      21.3       21.3          1384                                 
+     908.4      908.4          1392                                 
+     908.4      908.4          1392                                 
+     540.9     1081.8          1395                                 
+     540.9     1081.8          1395                                 
+       906       1812          1441                                 
+       906       1812          1441                                 
+     590.2      590.2          1449                                 
+     590.2      590.2          1449                                 
+     917.5      917.5          1469                                 
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     917.5      917.5          1469                                 
+       533        533          1511                                 
+       533        533          1511                                 
+     680.1      680.1          1537                                 
+     680.1      680.1          1537                                 
+     536.1      536.1          1597                                 
+     536.1      536.1          1597                                 
+     151.5        303          2240                                 
+     151.5        303          2240                                 
+       113        226          2325                                 
+       113        226          2325                                 
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+     242.4      242.4          2345                                 
+     242.4      242.4          2345                                 
+     219.2      219.2          2356                                 
+     219.2      219.2          2356                                 
+     961.8      961.8          2395                                 
+     961.8      961.8          2395                                 
+     297.1      297.1          2447                                 
+     297.1      297.1          2447                                 
+     900.6      900.6          2715                                 
+     900.6      900.6          2715                                 
+    539.22    38284.3                                               
+
+   CUR_AVG    CUR_SUM STREET_NUMBER STREET_NAME              POSTAL_
+---------- ---------- ------------- ------------------------ -------
+    539.22    38284.3                                               
+
+320 rows selected. 
